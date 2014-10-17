@@ -6,7 +6,6 @@ posterior tratamiento usando un simbolo como separador de linea
 
 
 @Pro-Gramadores
-#Pro-Gramadores
 
 http://facebook.com/pgramadores
 
